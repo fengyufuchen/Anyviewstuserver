@@ -11,11 +11,7 @@ import com.anyview.codec.pojo.response.PkCatalogResponse;
 import com.anyview.server.start.SubscribeServerStart;
 import com.anyview.service.PkCatalogManager;
 
-/**
- * 
- * @author 杨坚新
- *
- */
+
 @Controller
 public class PkCatalogAction {
 
